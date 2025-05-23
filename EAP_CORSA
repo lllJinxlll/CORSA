@@ -12,6 +12,7 @@ Estrutura Analítica do Projeto - Central de Organizações e Registros Sistêmi
   2.3 Estimativa de Custos
   2.4 Gestão de Riscos
 
+EXECUÇÃO{
 3.0 Análise e Design do Sistema
   3.1 Modelagem de Casos de Uso
   3.2 Especificação de Requisitos Funcionais e Não Funcionais
@@ -43,6 +44,7 @@ Estrutura Analítica do Projeto - Central de Organizações e Registros Sistêmi
   6.1 Treinamento de Usuários
   6.2 Migração de Dados (se necessário)
   6.3 Publicação/Deploy do Sistema
+}
 
 7.0 Encerramento
   7.1 Documentação Final
