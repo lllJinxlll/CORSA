@@ -1,0 +1,50 @@
+Estrutura Analítica do Projeto - Central de Organizações e Registros Sistêmicos Acadêmicos
+
+1.0 Iniciação
+  1.1 Levantamento de Requisitos
+  1.2 Análise de Viabilidade
+  1.3 Definição do Escopo
+  1.4 Aprovação do Projeto
+
+2.0 Planejamento
+  2.1 Planejamento de Recursos
+  2.2 Cronograma do Projeto
+  2.3 Estimativa de Custos
+  2.4 Gestão de Riscos
+
+3.0 Análise e Design do Sistema
+  3.1 Modelagem de Casos de Uso
+  3.2 Especificação de Requisitos Funcionais e Não Funcionais
+  3.3 Arquitetura do Sistema
+  3.4 Design da Interface (UI/UX)
+
+4.0 Desenvolvimento
+  4.1 Desenvolvimento do Módulo de Matrículas
+    4.1.1 Cadastro de Alunos
+    4.1.2 Matrícula em Turmas/Disciplinas
+  4.2 Desenvolvimento do Módulo de Frequência
+    4.2.1 Registro de Presença
+    4.2.2 Relatórios de Frequência
+  4.3 Desenvolvimento do Módulo de Plano de Aulas
+    4.3.1 Planejamento por Disciplina
+    4.3.2 Visualização do Plano
+  4.4 Desenvolvimento do Módulo de Registro de Aulas
+    4.4.1 Registro Diário
+    4.4.2 Anexos e Observações
+  4.5 Integração entre Módulos
+
+5.0 Testes
+  5.1 Testes Unitários
+  5.2 Testes de Integração
+  5.3 Testes de Aceitação
+  5.4 Correções e Ajustes
+
+6.0 Implantação
+  6.1 Treinamento de Usuários
+  6.2 Migração de Dados (se necessário)
+  6.3 Publicação/Deploy do Sistema
+
+7.0 Encerramento
+  7.1 Documentação Final
+  7.2 Avaliação do Projeto
+  7.3 Entrega Formal
